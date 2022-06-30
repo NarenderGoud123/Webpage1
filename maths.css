@@ -1,0 +1,11 @@
+#btn1{
+    position: absolute;
+    right: 100px;
+}
+#btn2{
+    position: absolute;
+    right: 5px;
+}
+#h1{
+    place-content: solid;
+}
